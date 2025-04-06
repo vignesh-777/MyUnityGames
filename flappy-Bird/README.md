@@ -26,4 +26,4 @@ Avoid hitting the pipes
 Try to beat your high score!
 
 ## Screenshots 
-![Screenshot 2025-04-05 132450](https://github.com/user-attachments/assets/2693291f-96e0-4681-9238-6b79ff621409)
+![Screenshot 2025-04-05 132450](https://github.com/user-attachments/assets/836ed089-4f31-4f15-8891-d8100a482d5f)
