@@ -53,4 +53,4 @@ Catch falling power-ups for cool effects.
 Don’t let the last ball fall into the death wall!
 
 ## output
-![Screenshot 2025-04-06 125906](https://github.com/user-attachments/assets/3b431439-3efe-44a2-8342-74811efdc644)
+![Screenshot 2025-04-06 125906](https://github.com/user-attachments/assets/1a9cef32-a5c2-4027-866c-3e81dc7b6de0)
